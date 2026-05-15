@@ -1,4 +1,4 @@
-# React Learn
+# React Tutorial App
 
 Hands-on React learning platform with interactive lessons and live demos.
 
